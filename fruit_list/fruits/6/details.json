@@ -1,1 +1,7 @@
-
+{
+   "fruit_id":6,
+   "fruit_name":"pineapple",
+   "price":"760",
+   "description":"ananas ananasasdjasndkj asdkjn asdk",
+   "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/6/pineapple.png"
+},
