@@ -1,1 +1,7 @@
-
+{
+   "fruit_id":7,
+   "fruit_name":"strawberry",
+   "price":"300",
+   "description":"klubnik mlubnik mlubniiik",
+   "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
+},
