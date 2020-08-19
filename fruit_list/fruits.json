@@ -48,6 +48,13 @@
          "price":"300",
          "description":"xndzorasdasdas asdajsnd asdjk asjkn asdkj",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
+      },
+      {
+         "fruit_id":8,
+         "fruit_name":"strawberry",
+         "price":"300",
+         "description":"xndzorasdasdas asdajsnd asdjk asjkn asdkj",
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
       }
    ]
 }
