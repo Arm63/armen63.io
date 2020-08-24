@@ -4,49 +4,49 @@
          "id":1,
          "name":"apple",
          "price":"150",
-         "description":"An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.",
+         "description":"An apple is an edible fruit,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/1/apple.png"
       },
       {
          "id":2,
          "name":"banana",
          "price":"450",
-         "description":"A banana is an elongated, edible fruit – botanically a berry[1][2] – produced by several kinds of large herbaceous flowering plants in the genus Musa.[3] In some countries, bananas used for cooking may be called plantains, distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe.",
+         "description":"A banana is an elongated,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/2/banana.png"
       },
       {
          "id":3,
          "name":"cherry",
          "price":"230",
-         "description":" A cherry is the fruit of many plants of the genus Prunus, and is a fleshy drupe (stone fruit).Commercial cherries are obtained from cultivars of several species, such as the sweet Prunus avium and the sour Prunus cerasus. The name 'cherry' also refers to the cherry tree and its wood, and is sometimes applied to almonds and visually similar flowering trees in the genus Prunus, as in ornamental cherry  cherry blossom. ",
+         "description":"A banana is an elongated,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/3/cherry.png"
       },
       {
          "id":4,
          "name":"orange",
          "price":"400",
-         "description":"The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis,[1] which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations",
+         "description":"A banana is an elongated,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/4/orange.png"
       },
       {
          "id":5,
          "name":"peach",
          "price":"370",
-         "description":"The peach (Prunus persica) is a deciduous tree native to the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains, where it was first domesticated and cultivated.[3] It bears edible juicy fruits with various characteristics, most called peaches and others (the glossy-skinned varieties), nectarines.",
+         "description":"A banana is an elongated,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/5/peach.png"
       },
       {
          "id":6,
          "name":"pineapple",
          "price":"760",
-         "description":"The pineapple[2][3] (Ananas comosus) is a tropical plant with an edible fruit and the most economically significant plant in the family Bromeliaceae.[4] The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple to Europe in the 17th century made it a significant cultural icon of luxury. Since the 1820s, pineapple has been commercially grown in greenhouses and many tropical plantations.",
+         "description":"A banana is an elongated,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/6/pineapple.png"
       },
       {
          "id":7,
          "name":"strawberry",
          "price":"300",
-         "description":"The garden strawberry (or simply strawberry; Fragaria × ananassa)[1] is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness",
+         "description":"A banana is an elongated,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
       },
       {
