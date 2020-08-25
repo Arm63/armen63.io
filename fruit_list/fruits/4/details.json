@@ -1,7 +1,7 @@
 {
-   "fruit_id":4,
-   "fruit_name":"orange",
-   "price":"400",
+   "id":4,
+   "name":"orange",
+   "price":400,
    "description":"apelsin mapelsin mapelsin appelsin",
    "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/4/orange.png"
-},
+}
