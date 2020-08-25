@@ -1,7 +1,7 @@
 {
-   "fruit_id":5,
-   "fruit_name":"peach",
-   "price":"370",
+   "id":5,
+   "name":"peach",
+   "price":370,
    "description":"dexc pjxovi dexc u tenc eli",
    "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/5/peach.png"
-},
+}
