@@ -1,7 +1,7 @@
 {
    "fruit_id":3,
    "fruit_name":"cherry",
-   "price":"230",
+   "price":230,
    "description":"vishnya ban man a",
    "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/3/cherry.png"
 }
