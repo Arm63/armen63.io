@@ -4,56 +4,48 @@
          "id":1,
          "name":"apple",
          "price":150,
-         "description":"xndzor mndzoooor",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/1/apple.png"
       },
       {
          "id":2,
          "name":"banana",
          "price":450,
-         "description":"bananan bananasdj",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/2/banana.png"
       },
       {
          "id":3,
          "name":"cherry",
          "price":230,
-         "description":"asdasdasdfdasd",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/3/cherry.png"
       },
       {
          "id":4,
          "name":"orange",
          "price":400,
-         "description":"asdasfasfas",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/4/orange.png"
       },
       {
          "id":5,
          "name":"peach",
          "price":370,
-         "description":"asdasdasd",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/5/peach.png"
       },
       {
          "id":6,
          "name":"pineapple",
          "price":760,
-         "description":"asdasfgasdasdasg df ",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/6/pineapple.png"
       },
       {
          "id":7,
          "name":"strawberry",
          "price":300,
-         "description":"adasopdaskp",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
       },
       {
          "id":8,
          "name":"strawberry",
          "price":300,
-         "description":"asdklasjdo",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
       }
    ]
