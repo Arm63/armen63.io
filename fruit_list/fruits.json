@@ -1,3 +1,25 @@
+{
+   "fruits":[
+      {
+         "id":1,
+         "name":"apple",
+         "price":150,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/1/apple.png"
+      },
+      {
+         "id":2,
+         "name":"banana",
+         "price":450,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/2/banana.png"
+      },
+      {
+         "id":3,
+         "name":"cherry",
+         "price":230,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/3/cherry.png"
       },
       {
          "id":4,
