@@ -1,51 +1,37 @@
-{
-   "fruits":[
-      {
-         "id":1,
-         "name":"apple",
-         "price":150,
-         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/1/apple.png"
-      },
-      {
-         "id":2,
-         "name":"banana",
-         "price":450,
-         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/2/banana.png"
-      },
-      {
-         "id":3,
-         "name":"cherry",
-         "price":230,
-         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/3/cherry.png"
       },
       {
          "id":4,
          "name":"orange",
          "price":400,
+         "from_user":false,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/4/orange.png"
       },
       {
          "id":5,
          "name":"peach",
          "price":370,
+         "from_user":false,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/5/peach.png"
       },
       {
          "id":6,
          "name":"pineapple",
          "price":760,
+         "from_user":false,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/6/pineapple.png"
       },
       {
          "id":7,
          "name":"strawberry",
          "price":300,
+         "from_user":false,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
       },
       {
          "id":8,
          "name":"strawberry",
          "price":300,
+         "from_user":false,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/7/strawberry.png"
       }
    ]
