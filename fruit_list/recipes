@@ -1,6 +1,4 @@
 {
-  "contacts": [
-      {
          "id":1,
          "name":"Watermelon Poke Bowl Recipe",
          "price":150,
@@ -35,5 +33,3 @@
          "from_user":false,
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/5/Lemon-Pasta-with-Shrimp.jpg"
     }
-  ]
-}
