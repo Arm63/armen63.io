@@ -1,0 +1,37 @@
+[
+      {
+         "id":1,
+         "name":"Watermelon Poke Bowl Recipe",
+         "price":150,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/1/Watermelon_Poke_Bowl_Recipe.jpg"
+      },
+      {
+         "id":2,
+         "name":"Cheesy Raw Vegan Zucchini Lasagna",
+         "price":450,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/2/Cheesy_Raw_Vegan_Zucchini_Lasagna.jpg"
+      },
+      {
+         "id":3,
+         "name":"Pea And Arugulu Salad",
+         "price":230,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/3/Pea And Arugulu Salad.jpg"
+      },
+      {
+         "id":4,
+         "name":"Aran Goyoaga Nicoise Salad",
+         "price":400,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/4/aran-goyoaga-nicoise-salad.jpg"
+      },
+      {
+         "id":5,
+         "name":"Lemon Pasta with Shrimp",
+         "price":370,
+         "from_user":false,
+         "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/5/Lemon-Pasta-with-Shrimp.jpg"
+    }
+  ]
