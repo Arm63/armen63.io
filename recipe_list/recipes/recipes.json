@@ -5,6 +5,7 @@
          "name":"Watermelon Poke Bowl Recipe",
          "price":150,
          "from_user":false,
+         "favorite":false,
          "description":"DRESSING\n   2 tablespoons soy sauce 2 tablespoons rice vinegar 1 tablespoon peanut oil 1 tablespoon sesame oil 1 tablespoon minced ginger Juice of 1 lime 1 teaspoon sriracha (or more to taste) 1 tablespoon sesame seeds \n\n BOWLS\n   6 cups cubed watermelon 1 bunch scallions, thinly sliced ½ European cucumber, halved and thinly sliced 1 avocado, thinly sliced ¼ cup pickled ginger ½ cup peanuts 1 cup microgreens or sprouts 2 tablespoons sesame seeds",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/1/Watermelon_Poke_Bowl_Recipe.jpg"
       },
@@ -13,6 +14,7 @@
          "name":"Cheesy Raw Vegan Zucchini Lasagna",
          "price":450,
          "from_user":false,
+         "favorite":false,
          "description":"DRESSING\n   2 tablespoons soy sauce 2 tablespoons rice vinegar 1 tablespoon peanut oil 1 tablespoon sesame oil 1 tablespoon minced ginger Juice of 1 lime 1 teaspoon sriracha (or more to taste) 1 tablespoon sesame seeds \n\n BOWLS\n   6 cups cubed watermelon 1 bunch scallions, thinly sliced ½ European cucumber, halved and thinly sliced 1 avocado, thinly sliced ¼ cup pickled ginger ½ cup peanuts 1 cup microgreens or sprouts 2 tablespoons sesame seeds",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/2/Cheesy_Raw_Vegan_Zucchini_Lasagna.jpg"
       },
@@ -21,6 +23,7 @@
          "name":"Pea And Arugulu Salad",
          "price":230,
          "from_user":false,
+         "favorite":false,
          "description":"DRESSING\n   2 tablespoons soy sauce 2 tablespoons rice vinegar 1 tablespoon peanut oil 1 tablespoon sesame oil 1 tablespoon minced ginger Juice of 1 lime 1 teaspoon sriracha (or more to taste) 1 tablespoon sesame seeds \n\n BOWLS\n   6 cups cubed watermelon 1 bunch scallions, thinly sliced ½ European cucumber, halved and thinly sliced 1 avocado, thinly sliced ¼ cup pickled ginger ½ cup peanuts 1 cup microgreens or sprouts 2 tablespoons sesame seeds",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/3/Pea And Arugulu Salad.jpg"
       },
@@ -29,6 +32,7 @@
          "name":"Aran Goyoaga Nicoise Salad",
          "price":400,
          "from_user":false,
+         "favorite":false,
          "description":"DRESSING\n   2 tablespoons soy sauce 2 tablespoons rice vinegar 1 tablespoon peanut oil 1 tablespoon sesame oil 1 tablespoon minced ginger Juice of 1 lime 1 teaspoon sriracha (or more to taste) 1 tablespoon sesame seeds \n\n BOWLS\n   6 cups cubed watermelon 1 bunch scallions, thinly sliced ½ European cucumber, halved and thinly sliced 1 avocado, thinly sliced ¼ cup pickled ginger ½ cup peanuts 1 cup microgreens or sprouts 2 tablespoons sesame seeds",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/4/aran-goyoaga-nicoise-salad.jpg"
       },
@@ -37,6 +41,7 @@
          "name":"Lemon Pasta with Shrimp",
          "price":370,
          "from_user":false,
+         "favorite":false,
          "description":"DRESSING\n   2 tablespoons soy sauce 2 tablespoons rice vinegar 1 tablespoon peanut oil 1 tablespoon sesame oil 1 tablespoon minced ginger Juice of 1 lime 1 teaspoon sriracha (or more to taste) 1 tablespoon sesame seeds \n\n BOWLS\n   6 cups cubed watermelon 1 bunch scallions, thinly sliced ½ European cucumber, halved and thinly sliced 1 avocado, thinly sliced ¼ cup pickled ginger ½ cup peanuts 1 cup microgreens or sprouts 2 tablespoons sesame seeds",
          "image":"https://raw.githubusercontent.com/Arm63/armen63.io/master/fruit_list/fruits/5/Lemon-Pasta-with-Shrimp.jpg"
     }
