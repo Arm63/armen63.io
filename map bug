@@ -1,0 +1,9 @@
+2020-12-04 12:12:00.475 11936-12373/com.cypress.tripcoin E/Google Maps Android API: Authorization failure.  Please see https://developers.google.com/maps/documentation/android-api/start for how to correctly set up the map.
+2020-12-04 12:12:00.490 11936-12373/com.cypress.tripcoin E/Google Maps Android API: In the Google Developer Console (https://console.developers.google.com)
+Ensure that the "Google Maps Android API v2" is enabled.
+-------------------------------------------------------------------
+2020-12-04 12:12:01.838 11936-12012/com.cypress.tripcoin A/libc: Fatal signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x0 in tid 12012 (Studio:Socket), pid 11936 (ypress.tripcoin)
+2020-12-04 12:12:01.841 11936-12090/com.cypress.tripcoin E/IPCThreadState: *** BAD COMMAND 0 received from Binder driver
+2020-12-04 12:12:01.841 11936-12090/com.cypress.tripcoin E/IPCThreadState: getAndExecuteCommand(fd=8) returned unexpected error -2147483648, aborting
+2020-12-04 12:12:01.842 11936-11956/com.cypress.tripcoin A/ypress.tripcoi: transform.cc:94] Recursive call into Transformation fault handler!
+2020-12-04 12:12:01.842 11936-12116/com.cypress.tripcoin A/ypress.tripcoi: transform.cc:94] Recursive call into Transformation fault handler!
